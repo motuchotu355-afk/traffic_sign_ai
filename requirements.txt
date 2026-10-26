@@ -1,0 +1,11 @@
+matplotlib==3.9.4
+numpy==2.0.2
+opencv-python-headless==5.0.0.93
+pandas==2.3.3
+scikit-learn==1.6.1
+seaborn==0.13.2
+streamlit==1.50.0
+torch==2.8.0
+torchvision==0.23.0
+ultralytics==8.4.190
+ultralytics-thop==2.2.3

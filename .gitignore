@@ -1,0 +1,9 @@
+.venv/
+gtsrb/
+__pycache__/
+archive.zip
+*.jpg
+*.jpeg
+*.png
+yolov8n.pt
+.DS_Store
